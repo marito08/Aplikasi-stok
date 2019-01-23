@@ -1,0 +1,13 @@
+Aplikasi stok mobil sederhana menggunakan php dan mysql
+
+### PANDUAN CARA INSTALL
+copy project ke localhost ( xampp/htdocs/thamrin )
+
+import database thamrin.sql
+
+
+akses : localhost/thamrin/admin
+
+Username :  - Password :  - level 
+
+robi          siregar       suzuki
